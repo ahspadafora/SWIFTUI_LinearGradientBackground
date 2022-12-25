@@ -16,6 +16,7 @@
 		BADDB5002957DF2A005ED15A /* iTriviaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDB4FF2957DF2A005ED15A /* iTriviaTests.swift */; };
 		BADDB50A2957DF2A005ED15A /* iTriviaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDB5092957DF2A005ED15A /* iTriviaUITests.swift */; };
 		BADDB50C2957DF2A005ED15A /* iTriviaUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDB50B2957DF2A005ED15A /* iTriviaUITestsLaunchTests.swift */; };
+		BADDB5192957E18D005ED15A /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = BADDB5182957E18D005ED15A /* Color+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		BADDB5052957DF2A005ED15A /* iTriviaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iTriviaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BADDB5092957DF2A005ED15A /* iTriviaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTriviaUITests.swift; sourceTree = "<group>"; };
 		BADDB50B2957DF2A005ED15A /* iTriviaUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTriviaUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BADDB5182957E18D005ED15A /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				BADDB4E92957DF26005ED15A /* iTriviaApp.swift */,
 				BADDB4EB2957DF26005ED15A /* ContentView.swift */,
 				BADDB4ED2957DF29005ED15A /* Assets.xcassets */,
+				BADDB5182957E18D005ED15A /* Color+Ext.swift */,
 				BADDB4F22957DF29005ED15A /* Persistence.swift */,
 				BADDB4F42957DF29005ED15A /* iTrivia.xcdatamodeld */,
 				BADDB4EF2957DF29005ED15A /* Preview Content */,
@@ -267,6 +270,7 @@
 				BADDB4F32957DF29005ED15A /* Persistence.swift in Sources */,
 				BADDB4EC2957DF26005ED15A /* ContentView.swift in Sources */,
 				BADDB4EA2957DF26005ED15A /* iTriviaApp.swift in Sources */,
+				BADDB5192957E18D005ED15A /* Color+Ext.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
